@@ -1,0 +1,26 @@
+# Compiled files
+**/bin/
+**/obj/
+**/Debug/
+**/Release/
+*.exe
+*.dll
+*.pdb
+
+# Visual Studio temporary files
+**/.vs/
+*.user
+*.suo
+
+# Logs
+*.log
+
+# Visual Studio C++ build output
+**/x64/
+**/x86/
+**/Debug/
+**/Release/
+*.vcxproj.user
+*.sdf
+*.ipch
+ipch/
